@@ -77,4 +77,6 @@ curl -fsSL https://raw.githubusercontent.com/NousResearch/hermes-agent/main/scri
 
 ---
 
-> ⚠️ 本系列內容版權歸菜鳥教程所有，僅作為學習用途整理。
+## 📝 版權聲明
+
+> ⚠️ **本系列內容版權歸菜鳥教程所有，僅作為學習用途整理。**

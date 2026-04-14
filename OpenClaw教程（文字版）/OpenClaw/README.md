@@ -113,7 +113,3 @@ openclaw status
 - 💻 [GitHub](https://github.com/openclaw/openclaw)
 - 🛒 [ClawHub 技能市場](https://clawhub.ai/)
 - 🇨🇳 [ClawHub 國內鏡像](https://skillhub.tencent.com/)
-
----
-
-> ⚠️ 本系列內容版權歸菜鳥教程所有，僅作為學習用途整理。
