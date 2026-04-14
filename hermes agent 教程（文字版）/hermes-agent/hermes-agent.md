@@ -270,4 +270,3 @@ Hermes Agent 是一個會隨著使用不斷成長的 AI Agent。
 
 ---
 
-*本課程內容整理自[菜鳥教程 Hermes Agent](https://www.runoob.com/ai-agent/hermes-agent.html)，版權歸原作者所有。*
