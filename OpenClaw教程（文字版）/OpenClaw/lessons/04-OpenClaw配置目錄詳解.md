@@ -256,4 +256,3 @@ export OPENCLAW_HOME="~/custom-path/.openclaw"
 
 ---
 
-*本課程內容整理自[菜鳥教程 OpenClaw 配置目錄](https://www.runoob.com/ai-agent/openclaw-setup.html)，版權歸原作者所有。*

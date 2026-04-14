@@ -176,4 +176,3 @@ openclaw gateway --port 18789
 
 ---
 
-*本課程內容整理自[菜鳥教程 OpenClaw 接入飛書](https://www.runoob.com/ai-agent/openclaw-feishu.html)，版權歸原作者所有。*

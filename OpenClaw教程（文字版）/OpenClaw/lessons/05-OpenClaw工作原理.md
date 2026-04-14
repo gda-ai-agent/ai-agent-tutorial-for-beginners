@@ -233,4 +233,3 @@ OpenClaw 的三層架構設計使其既強大又靈活：
 
 ---
 
-*本課程內容整理自[菜鳥教程 OpenClaw 工作原理](https://www.runoob.com/ai-agent/openclaw-how-it-works.html)，版權歸原作者所有。*

@@ -178,4 +178,3 @@ openclaw doctor
 
 ---
 
-*本課程內容整理自[菜鳥教程 OpenClaw 快速上手](https://www.runoob.com/ai-agent/openclaw-quickstart.html)，版權歸原作者所有。*

@@ -149,4 +149,3 @@ tail -f /tmp/openclaw/weixin.log
 
 ---
 
-*本課程內容整理自[菜鳥教程 OpenClaw 接入微信](https://www.runoob.com/ai-agent/openclaw-weixin.html)，版權歸原作者所有。*

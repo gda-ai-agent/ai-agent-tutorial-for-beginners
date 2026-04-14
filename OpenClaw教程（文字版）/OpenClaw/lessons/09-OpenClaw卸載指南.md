@@ -218,4 +218,3 @@ ls ~/.openclaw  # 應該提示不存在
 
 ---
 
-*本課程內容整理自[菜鳥教程 OpenClaw 卸載指南](https://www.runoob.com/ai-agent/openclaw-uninstall.html)，版權歸原作者所有。*
